@@ -1,4 +1,5 @@
 #!D:\ML Projects\Langraph\myenv\Scripts\python.exe
+# -*- coding: utf-8 -*-
 
 
 import argparse
