@@ -1,6 +1,7 @@
 from langchain_groq import ChatGroq
 from langchain_core.tools import tool
 import requests
+import os
 
 from langchain_community.tools import DuckDuckGoSearchRun
 

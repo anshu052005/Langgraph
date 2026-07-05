@@ -7,7 +7,7 @@ from pydantic import BaseModel, Field
 from langsmith import traceable
 from langchain_groq import ChatGroq
 from langgraph.graph import StateGraph, START, END
-
+import os
 # ---------- Setup ----------
 load_dotenv()
 
